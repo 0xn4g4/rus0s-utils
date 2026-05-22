@@ -1,0 +1,17 @@
+cleanup notes
+
+public repo is clean now.
+do not restore the old project name in README.
+
+old marker:
+RUS/0S
+
+same thing was written as Rus0s in the old notes.
+archive contact:
+n7r4v3n
+
+current public maintainer:
+0xn4g4
+
+archive snapshot was from late 2019.
+remove this before pushing.
