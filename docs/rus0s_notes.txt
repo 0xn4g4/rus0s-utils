@@ -1,0 +1,12 @@
+cleanup notes
+
+public repo is clean now.
+do not restore the old project name in README.
+
+old marker:
+RUS/0S
+
+same thing was written differently in the old notes.
+
+handoff list was moved to the 2019 archive snapshot.
+remove this before pushing.
